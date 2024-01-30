@@ -33,30 +33,3 @@ a {
 img {
   width: 100%;
 }
-h1 {
-  position: relative;
-  font-family: 'Raleway', Arial, Helvetica, sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  letter-spacing: 30px;
-  font-size: 100px;
-  line-height: 100px;
-  text-transform: uppercase;
-  color: #FFFFFF;
-}
-h2 {
-  font-family: 'Raleway', Arial, Helvetica, sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 40px;
-  line-height: 47px;
-  text-transform: uppercase;
-}
-h3 {
-  font-family: 'Raleway', Arial, Helvetica, sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 22px;
-  line-height: 28px;
-  text-transform: uppercase;
-}
